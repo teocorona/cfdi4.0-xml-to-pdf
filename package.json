@@ -1,0 +1,19 @@
+{
+  "name": "cfdi4-xml-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^3.0.1",
+    "inquirer": "^8.2.5",
+    "qrcode": "^1.5.1",
+    "xml2js": "^0.4.23"
+  }
+}
